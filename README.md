@@ -1,6 +1,6 @@
 # Argentina Higher Education Analytics
 
-Data Analytics project focused on the evolution of higher education in Argentina between 2015 and 2025.
+Data Analytics project focused on the evolution of higher education in Argentina between 2014 and 2023.
 
 ## Objectives
 
