@@ -12,7 +12,7 @@ Understanding enrollment, graduation trends, institutional growth, and the parti
 
 This project aims to analyze the evolution of higher education in Argentina between 2015 and 2025 using publicly available datasets.
 
----
+
 
 ## Business Problem
 
@@ -24,7 +24,7 @@ Educational stakeholders need a clear understanding of:
 * The participation and growth of STEM-related disciplines.
 * Regional and institutional trends.
 
----
+
 
 ## Stakeholders
 
@@ -44,13 +44,13 @@ Interested in identifying educational patterns.
 
 Interested in understanding educational opportunities and trends.
 
----
+
 
 ## Main Business Question
 
 How has higher education evolved in Argentina between 2015 and 2025?
 
----
+
 
 ## Secondary Questions
 
@@ -61,7 +61,7 @@ How has higher education evolved in Argentina between 2015 and 2025?
 5. What differences exist between public and private institutions?
 6. What impact did the COVID-19 pandemic have on the educational system?
 
----
+
 
 ## Project Scope
 
@@ -74,7 +74,7 @@ The analysis focuses on:
 * Public and private institutions.
 * National trends between 2015 and 2025.
 
----
+
 
 ## Expected Deliverables
 
