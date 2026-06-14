@@ -75,11 +75,3 @@ The analysis focuses on:
 * National trends between 2015 and 2025.
 
 
-
-## Expected Deliverables
-
-* Data Cleaning Pipeline
-* Analytical Dataset
-* Power BI Dashboard
-* Executive KPIs
-* Data Storytelling Report

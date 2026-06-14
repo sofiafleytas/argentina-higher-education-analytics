@@ -12,8 +12,7 @@ __pycache__/
 .vscode/
 
 # Data
-data/raw/
-data/external/
+data/raw/*.csv
 
 # OS
 .DS_Store
