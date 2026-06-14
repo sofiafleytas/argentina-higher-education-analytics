@@ -1,6 +1,6 @@
 # Argentina Higher Education Analytics
 
-Análisis exploratorio de la educación superior argentina utilizando datos abiertos oficiales del Gobierno Nacional.
+Análisis exploratorio de la educación superior argentina utilizando datos abiertos oficiales del Gobierno Nacional
 
 ## Objetivo
 
@@ -70,21 +70,21 @@ argentina-higher-education-analytics/
 
 ### Extracción
 
-Se desarrolló un proceso automatizado para descargar el dataset oficial desde el portal de datos abiertos del Gobierno Nacional.
+Se desarrolló un proceso automatizado para descargar el dataset oficial desde el portal de datos abiertos del Gobierno Nacional
 
 ### Transformación
 
 Reglas aplicadas:
 
-- Conversión de la variable `VALOR` a tipo entero.
-- Eliminación de la columna `U_MED`.
-- Validación de tipos de datos.
-- Verificación de valores nulos.
-- Verificación de registros duplicados.
+- Conversión de la variable `VALOR` a tipo entero
+- Eliminación de la columna `U_MED`
+- Validación de tipos de datos
+- Verificación de valores nulos
+- Verificación de registros duplicados
 
 ### Carga
 
-Preparación de datasets analíticos para consumo posterior en Power BI.
+Preparación de datasets analíticos para consumo posterior en Power BI
 
 
 # Análisis Exploratorio de Datos
@@ -100,9 +100,9 @@ Preparación de datasets analíticos para consumo posterior en Power BI.
 
 ### Hallazgos
 
-- La matrícula universitaria creció un **36,2%** entre 2014 y 2023.
-- El mayor crecimiento anual ocurrió en 2020.
-- La tendencia general muestra una expansión sostenida del sistema universitario.
+- La matrícula universitaria creció un **36,2%** entre 2014 y 2023
+- El mayor crecimiento anual ocurrió en 2020
+- La tendencia general muestra una expansión sostenida del sistema universitario
 
 
 ## KPI 2 - Evolución de Egresados
@@ -116,8 +116,8 @@ Preparación de datasets analíticos para consumo posterior en Power BI.
 
 ### Hallazgos
 
-- Los egresados crecieron un **19%** durante el período analizado.
-- El crecimiento fue significativamente menor al observado en la matrícula.
+- Los egresados crecieron un **19%** durante el período analizado
+- El crecimiento fue significativamente menor al observado en la matrícula
 
 
 ## KPI 3 - Relación entre Estudiantes y Egresados
@@ -129,7 +129,7 @@ Preparación de datasets analíticos para consumo posterior en Power BI.
 | 2014 | 6,69% |
 | 2023 | 5,85% |
 
-El crecimiento de la matrícula no estuvo acompañado por un crecimiento proporcional de los egresados.
+El crecimiento de la matrícula no estuvo acompañado por un crecimiento proporcional de los egresados
 
 
 ## KPI 4 - Universidades Públicas vs Privadas
@@ -143,9 +143,9 @@ El crecimiento de la matrícula no estuvo acompañado por un crecimiento proporc
 
 ### Hallazgos
 
-- Las universidades públicas concentran la mayoría de estudiantes y egresados.
-- Las universidades privadas presentan una mayor proporción de egresados respecto a su volumen de estudiantes.
-- Este indicador no representa una tasa de graduación real, sino una relación agregada entre estudiantes y egresados.
+- Las universidades públicas concentran la mayoría de estudiantes y egresados
+- Las universidades privadas presentan una mayor proporción de egresados respecto a su volumen de estudiantes
+- Este indicador no representa una tasa de graduación real, sino una relación agregada entre estudiantes y egresados
 
 
 ## KPI 5 - Distribución de Estudiantes por Área de Conocimiento
@@ -161,8 +161,8 @@ El crecimiento de la matrícula no estuvo acompañado por un crecimiento proporc
 
 ### Hallazgos
 
-- Casi la mitad de la matrícula universitaria argentina pertenece al área de Ciencias Sociales.
-- Ciencias Médicas ocupa el segundo lugar con el 17,8% de participación.
+- Casi la mitad de la matrícula universitaria argentina pertenece al área de Ciencias Sociales
+- Ciencias Médicas ocupa el segundo lugar con el 17,8% de participación
 
 
 ## KPI 6 - Distribución de Egresados por Área de Conocimiento
@@ -178,8 +178,8 @@ El crecimiento de la matrícula no estuvo acompañado por un crecimiento proporc
 
 ### Hallazgos
 
-- Más de la mitad de los egresados pertenecen al área de Ciencias Sociales.
-- Ingeniería y Exactas presentan una menor participación relativa en egresados que en estudiantes.
+- Más de la mitad de los egresados pertenecen al área de Ciencias Sociales
+- Ingeniería y Exactas presentan una menor participación relativa en egresados que en estudiantes
 
 
 # Caso de Estudio: Informática
@@ -193,7 +193,7 @@ El crecimiento de la matrícula no estuvo acompañado por un crecimiento proporc
 
 ### Hallazgo
 
-La matrícula en Informática creció un **122%**, más de tres veces por encima del crecimiento del sistema universitario en general.
+La matrícula en Informática creció un **122%**, más de tres veces por encima del crecimiento del sistema universitario en general
 
 
 ## Evolución de Egresados
@@ -205,7 +205,7 @@ La matrícula en Informática creció un **122%**, más de tres veces por encima
 
 ### Hallazgo
 
-La cantidad de egresados se mantuvo prácticamente estable durante toda la década.
+La cantidad de egresados se mantuvo prácticamente estable durante toda la década
 
 
 ## Relación entre Estudiantes y Egresados
@@ -217,7 +217,7 @@ La cantidad de egresados se mantuvo prácticamente estable durante toda la déca
 
 ### Hallazgo Principal
 
-La demanda por carreras de Informática creció aceleradamente, especialmente a partir de 2020. Sin embargo, dicho crecimiento no se tradujo en un aumento proporcional de egresados.
+La demanda por carreras de Informática creció aceleradamente, especialmente a partir de 2020. Sin embargo, dicho crecimiento no se tradujo en un aumento proporcional de egresados
 
 
 ## Ranking Nacional
@@ -230,11 +230,11 @@ Informática ocupa el puesto:
 
 Participación:
 
-**4,66%** del total de estudiantes universitarios.
+**4,66%** del total de estudiantes universitarios
 
 ### Hallazgo
 
-Informática se encuentra entre las diez disciplinas con mayor cantidad de estudiantes del país.
+Informática se encuentra entre las diez disciplinas con mayor cantidad de estudiantes del país
 
 
 # Tecnologías Utilizadas
@@ -246,12 +246,4 @@ Informática se encuentra entre las diez disciplinas con mayor cantidad de estud
 - GitHub
 - Power BI
 
-
-# Próximos Pasos
-
-- Construcción del dashboard interactivo en Power BI.
-- Visualización de tendencias de matrícula y egreso.
-- Comparación entre universidades públicas y privadas.
-- Análisis específico de carreras tecnológicas.
-- Publicación como proyecto de portfolio.
 
